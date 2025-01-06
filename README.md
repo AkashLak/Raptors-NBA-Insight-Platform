@@ -6,3 +6,5 @@ Integrated XGBoost to forecast future wins and rankings based on historical time
 
 Tuned Hyperparameters in model using Grid Search, and cross validation, to find the best parameters
 
+
+![Screenshot 2025-01-06 at 12 21 54 PM](https://github.com/user-attachments/assets/0c62f32e-6cdf-4e11-8bc9-07176a787f7a)
