@@ -22,7 +22,7 @@ Tuned Hyperparameters in model using Grid Search, and cross validation, to find 
 <img width="516" alt="Screenshot 2025-01-06 at 1 42 29 PM" src="https://github.com/user-attachments/assets/1434c701-0661-4141-84b5-4e7e089bd7e2" />
 
 
-***Code for Jupyter Notebook SQL querying, seaborn graphs, and interactive graphs(plotly)*** 
+***Code for Jupyter Notebook: SQL querying, seaborn graphs, and interactive graphs(plotly)*** 
 ![Screenshot 2025-01-06 at 12 21 54 PM](https://github.com/user-attachments/assets/15e85272-bc43-492b-bfef-dbee401bbaa4)
 ![Screenshot 2025-01-06 at 12 22 06 PM](https://github.com/user-attachments/assets/d47da36d-c973-41bf-bcd5-e93041c37991)
 ![Screenshot 2025-01-06 at 12 22 20 PM](https://github.com/user-attachments/assets/51d02922-9a6c-47d7-829b-f7de3d469a70)
