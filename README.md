@@ -1,15 +1,49 @@
-### **Raptors Insight Platform** 🏀📊📈
+# Raptors (NBA) Insight Platform – Sports Analytics Tool 🏀📊
 
-A **data-driven sports analytics tool** designed to store and analyze **25 years of Raptors team stats**, enabling deep insights for **sports analysts** and **fans** alike!
+---
 
-- 💾 **Relational database** built with **SQL**, storing key metrics like **wins**, **losses**, and **rankings** with **yearly breakdowns** for comprehensive trend analysis.  
-- 📉 **Data visualization** using **Plotly**, and **Matplotlib** to showcase patterns and insights from team performance across multiple seasons.  
-- 🔮 **Integrated XGBoost** for **forecasting** future wins and rankings based on **historical data**.  
-  - 🏆 Achieved **R² of 0.3** and **RMSE of 1.5**, providing **actionable insights** for decision-makers.  
-- ⚙️ **Hyperparameter tuning** using **Grid Search** and **cross-validation** to find the most accurate model, ensuring optimal performance and predictions!
+## 🚀 **Overview**
+A **data-driven sports analytics tool** that leverages historical Raptors team statistics to forecast future performance and provide actionable insights for analysts and fans.
 
-🎯 A powerful tool that transforms historical data into **predictive insights**, revolutionizing how sports analysts evaluate and forecast team performance.
+---
 
+## 🔑 **Key Features:**
+
+### 💾 **Relational Database (SQL)**
+- Spearheaded the creation of a **relational database** using **SQL** to store **25 years of Raptors team statistics**.
+  - Key metrics include **wins**, **losses**, and **rankings** with **year-by-year breakdowns**.
+  - Enables **detailed trend analysis** over multiple seasons to understand patterns in team performance.
+
+### 📈 **Data Visualization**
+- Utilized **Plotly**, **Matplotlib**, and **Seaborn** to create **interactive visualizations**.
+  - Showcases performance patterns, win-loss trends, and ranking dynamics for easy-to-understand insights.
+
+### 🔮 **XGBoost Forecasting**
+- Integrated **XGBoost** to forecast future **wins** and **rankings** based on historical time series data.
+  - Achieved an **R² of 0.3** and **RMSE of 1.5**, providing **predictive insights** for analysts and decision-makers.
+
+### ⚙️ **Model Optimization & Hyperparameter Tuning**
+- **Grid Search** and **cross-validation** techniques used to optimize the model's performance and improve prediction accuracy:
+  - **Hyperparameter Tuning** with **Grid Search** to identify the best set of model parameters.
+  - Employed **Cross-validation** to ensure the model generalizes well across different subsets of data and reduces overfitting.
+
+### 🏆 **Optimized Model Performance**
+- Fine-tuned the **XGBoost model** using the best hyperparameters to achieve optimal performance:
+  - Enhanced the model’s predictive power, helping analysts make more accurate forecasts based on historical data.
+
+## 🎯 **Impact:**
+- A powerful tool that transforms **historical data** into **predictive insights**, enabling sports analysts to better forecast future performance and trends of the Raptors.
+- The platform offers a detailed breakdown of past performance while providing actionable predictions that assist with team strategies and decision-making.
+
+## 🛠️ **Technologies Used:**
+- **SQL** for database management
+- **Plotly** and **Matplotlib** for data visualization
+- **XGBoost** for predictive modeling
+- **Python** for data analysis and manipulation
+- **Grid Search** and **cross-validation** for hyperparameter tuning and model optimization
+
+## 🚀 **Usage:**
+- Ideal for sports analysts, enthusiasts, and anyone interested in deep data-driven insights into the Raptors' performance over the years.
 
 
 
