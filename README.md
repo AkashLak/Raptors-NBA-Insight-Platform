@@ -49,7 +49,7 @@ A **data-driven sports analytics tool** that leverages historical Raptors team s
 
 
 ***Final Result Website for User (Process steps below img):*** 
-![Screenshot 2025-01-06 at 12 34 22 PM](https://github.com/user-attachments/assets/10bdc194-a0d8-463b-a15c-c18d0bdc8335)
+![Screenshot 2025-01-10 at 6 21 18 AM](https://github.com/user-attachments/assets/43003be5-892b-428e-8ede-eee12722ae93)
 
 
 ***Code for SQL database:***
@@ -66,7 +66,7 @@ A **data-driven sports analytics tool** that leverages historical Raptors team s
 ![Screenshot 2025-01-06 at 12 22 32 PM](https://github.com/user-attachments/assets/b0b7d824-828d-4382-8d1f-da3c11560f39)
 
 ***Code for XGBoost model development, training and hypertuning/optimization*** 
-![Screenshot 2025-01-10 at 6 01 31 AM](https://github.com/user-attachments/assets/63f95a8e-cddb-46dc-8350-f6900e39b732)
+![Screenshot 2025-01-10 at 6 19 26 AM](https://github.com/user-attachments/assets/24810883-94a9-4389-9aed-2b6686bbd594)
 ![Screenshot 2025-01-10 at 6 01 43 AM](https://github.com/user-attachments/assets/db60603a-cf24-4e97-99ba-eed3ee761657)
 
 ***Code for graph comparisons between test data and predicted (persisting model)***
