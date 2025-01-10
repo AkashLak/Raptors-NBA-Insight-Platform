@@ -70,7 +70,7 @@ A **data-driven sports analytics tool** that leverages historical Raptors team s
 ![Screenshot 2025-01-10 at 6 01 43 AM](https://github.com/user-attachments/assets/db60603a-cf24-4e97-99ba-eed3ee761657)
 
 ***Code for graph comparisons between test data and predicted (persisting model)***
-![Screenshot 2025-01-10 at 6 03 34 AM](https://github.com/user-attachments/assets/83766e0d-6c02-4c03-a721-90e4c27db6b3)
+![Screenshot 2025-01-10 at 6 07 42 AM](https://github.com/user-attachments/assets/982af1b7-7679-435e-a2e9-c15d209442b3)
 
 
 
