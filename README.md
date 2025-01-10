@@ -19,7 +19,7 @@ A **data-driven sports analytics tool** that leverages historical Raptors team s
   - Showcases performance patterns, win-loss trends, and ranking dynamics for easy-to-understand insights.
 
 ### 🔮 **XGBoost Forecasting**
-- Integrated **XGBoost** to forecast future **wins** and **rankings** based on historical time series data.
+- Integrated **XGBoost** to forecast future **wins** based on historical time series data.
   - Achieved an **R² of 0.3** and **RMSE of 1.5**, providing **predictive insights** for analysts and decision-makers.
 
 ### ⚙️ **Model Optimization & Hyperparameter Tuning**
@@ -66,11 +66,12 @@ A **data-driven sports analytics tool** that leverages historical Raptors team s
 ![Screenshot 2025-01-06 at 12 22 32 PM](https://github.com/user-attachments/assets/b0b7d824-828d-4382-8d1f-da3c11560f39)
 
 ***Code for XGBoost model development, training and hypertuning/optimization*** 
-![Screenshot 2025-01-06 at 12 22 53 PM](https://github.com/user-attachments/assets/43fbfffa-fd8e-42c6-99fd-1a6efd39f644)
-![Screenshot 2025-01-06 at 12 24 49 PM](https://github.com/user-attachments/assets/2b17ad88-7f05-4438-93f2-ade6f02c9c10)
+![Screenshot 2025-01-10 at 6 01 31 AM](https://github.com/user-attachments/assets/63f95a8e-cddb-46dc-8350-f6900e39b732)
+![Screenshot 2025-01-10 at 6 01 43 AM](https://github.com/user-attachments/assets/db60603a-cf24-4e97-99ba-eed3ee761657)
 
-***Code for graph comparisons between test data and predicted***
-![Screenshot 2025-01-06 at 12 25 22 PM](https://github.com/user-attachments/assets/2ca58257-d17c-48f5-b349-b4bbde11aeab)
+***Code for graph comparisons between test data and predicted (persisting model)***
+![Screenshot 2025-01-10 at 6 03 34 AM](https://github.com/user-attachments/assets/83766e0d-6c02-4c03-a721-90e4c27db6b3)
+
 
 
 
