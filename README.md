@@ -20,7 +20,7 @@ A **data-driven sports analytics tool** that leverages historical Raptors team s
 
 ### 🔮 **XGBoost Forecasting**
 - Integrated **XGBoost** to forecast future **wins** based on historical time series data.
-  - Achieved an **R² of 0.3** and **RMSE of 1.5**, providing **predictive insights** for analysts and decision-makers.
+  - Achieved an **R² of 0.99** and **RMSE of 1.5**, providing **predictive insights** for analysts and decision-makers.
 
 ### ⚙️ **Model Optimization & Hyperparameter Tuning**
 - **Grid Search** and **cross-validation** techniques used to optimize the model's performance and improve prediction accuracy:
